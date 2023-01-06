@@ -2,3 +2,5 @@
 BPi Leaf S3 : microPhyton demo projekat prikaza broja na 8-segmentnom LED displeju 
 
 ![image](assets/BPiLeafS3Web1.jpg)
+
+![image](assets/BPiLeafS3Web2.jpg)
